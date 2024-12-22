@@ -1,1 +1,1 @@
-console.log("Ola, shopee")
+console.log("Ola, shopee");
