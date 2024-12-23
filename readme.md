@@ -50,19 +50,19 @@ A aplicação está focada no domínio de **carrinho de compras**.
 1. Clone este repositório:
 
 ```bash
- git clone https://github.com/seu-usuario/carrinho-compras-shopee.git
+ git clone [https://github.com/seu-usuario/carrinho-compras-shopee.git](https://github.com/dmm76/shopee-cart-challenge.git)
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
- cd carrinho-compras-shopee
+ cd ./src/index.js
 ```
 
 3. Instale as dependências necessárias:
 
 ```bash
- npm install
+ npm install -y
 ```
 
 4. Execute o projeto:
