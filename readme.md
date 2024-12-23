@@ -50,7 +50,7 @@ A aplicação está focada no domínio de **carrinho de compras**.
 1. Clone este repositório:
 
 ```bash
- git clone [https://github.com/seu-usuario/carrinho-compras-shopee.git](https://github.com/dmm76/shopee-cart-challenge.git)
+ git clone https://github.com/dmm76/shopee-cart-challenge.git
 ```
 
 2. Navegue até o diretório do projeto:
@@ -68,14 +68,18 @@ A aplicação está focada no domínio de **carrinho de compras**.
 4. Execute o projeto:
 
 ```bash
- npm start
+ node ./src/index.js
 ```
+ou 
+
+node --watch ./src/index.js
 
 ---
 
 ## 🖼️ Demonstração
 
-Insira aqui algumas imagens ou GIFs mostrando o funcionamento do carrinho de compras em ação. Isso ajuda a atrair a atenção de outros desenvolvedores! 🎉
+![image](https://github.com/user-attachments/assets/44e9d2d1-a533-4085-b565-a7541afc90ae)
+
 
 ---
 
