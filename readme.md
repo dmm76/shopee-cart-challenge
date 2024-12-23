@@ -71,8 +71,9 @@ A aplicação está focada no domínio de **carrinho de compras**.
  node ./src/index.js
 ```
 ou 
-
-node --watch ./src/index.js
+```bash
+ node --watch ./src/index.js
+```
 
 ---
 
