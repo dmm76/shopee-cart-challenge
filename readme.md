@@ -118,4 +118,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [`LICENSE`](./LICENSE) par
 
 ## 🧑‍💻 Desenvolvedor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario). Sinta-se à vontade para entrar em contato e dar sugestões! 🚀
+Desenvolvido por [Douglas](https://github.com/dmm76). Sinta-se à vontade para entrar em contato e dar sugestões! 🚀
